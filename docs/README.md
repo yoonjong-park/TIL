@@ -1,3 +1,3 @@
-# Headline
+# Today I learned (TIL)
 
-> An awesome project.
+> 오늘 무엇을 공부했는가를 기록하는 공간입니다.
